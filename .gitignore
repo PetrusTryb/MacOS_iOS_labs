@@ -2,3 +2,5 @@ out.exe
 out.exp
 out.lib
 merged.*
+.env
+data.json

@@ -11,7 +11,8 @@
 			"program": "${workspaceFolder}/out.exe",
 			"args": [],
 			"cwd": "${workspaceFolder}",
-			"preLaunchTask": "swiftbuild"
+			"preLaunchTask": "swiftbuild",
+			"envFile": "${workspaceFolder}/.env"
 		}
 	]
 }
