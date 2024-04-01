@@ -20,3 +20,4 @@ You can also use one of the following online Swift compilers:
 |[.vscode](.vscode)| Visual Studio Code configuration files|
 |[lab1](lab1)| Lab 1: Say hello to Swift!|
 |[lab2](lab2)| Lab 2: More Swift!|
+|[lab3](lab3)| Lab 3: Class and Structures|
