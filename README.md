@@ -21,3 +21,4 @@ You can also use one of the following online Swift compilers:
 |[lab1](lab1)| Lab 1: Say hello to Swift!|
 |[lab2](lab2)| Lab 2: More Swift!|
 |[lab3](lab3)| Lab 3: Class and Structures|
+|[lab4](lab4)| Lab 4: Holiday Travel|
